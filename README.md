@@ -75,4 +75,4 @@ An intermediate-level tool that bridges the gap between non-technical users and 
 ## ⚙️ How to Run
 1. **Clone the Repo**
    ```bash
-   git clone [https://github.com/mansi0925/Gen-AI-prompting-projects]
+   git clone https://github.com/mansi0925/Gen-AI-prompting-projects
